@@ -92,12 +92,12 @@ textarea {
 
 html {
   font-size: 16px;
-  background-color: #fdfaf0;
+  background-color: #f7f7f7;
 }
 
 body {
   font-family: "Poppins", sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   color: #000d00;
 }
 
@@ -142,7 +142,7 @@ h4 {
 
 p {
   font-size: .85em;
-  line-height: 20px;
+  line-height: 24px;
   letter-spacing: 1px;
   color: #000d00;
   font-family: "Poppins", sans-serif;
@@ -192,7 +192,7 @@ address {
   background-color: #ef9791;
   border: none;
   border-radius: 15px;
-  color: #fdfaf0;
+  color: #f7f7f7;
   text-align: center;
   font-size: 16px;
   padding: 10px;
@@ -297,7 +297,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
-  background-color: #fdfaf0;
+  background-color: #f7f7f7;
 }
 
 header {
@@ -321,7 +321,7 @@ header figure {
 /**Responsive nav **/
 .topnav {
   overflow: hidden;
-  background-color:#ef9791;
+  background-color:#000d00;
   font-size: 20px;
   font-family: inherit;
 
@@ -330,7 +330,7 @@ header figure {
 .topnav a {
   float: left;
   display: block;
-  color:#fdfaf0;
+  color:#f7f7f7;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -374,7 +374,7 @@ header figure {
 .dropdown .dropbtn {
   border: none;
   outline: none;
-  color:#fdfaf0;
+  color:#f7f7f7;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -384,9 +384,9 @@ header figure {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color:#fdfaf0;
+  background-color:#f7f7f7;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px #ef9791(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px #4fd59e(0,0,0,0.2);
   z-index: 1;
 }
 
@@ -401,12 +401,12 @@ header figure {
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color:#fdfaf0;
-  color:#ef9791;
+  background-color:#f7f7f7;
+  color:#4fd59e;
 }
 
 .dropdown-content a:hover {
-  background-color: #ef9791;
+  background-color: #4fd59e;
   color: black;
 }
 
@@ -474,7 +474,7 @@ footer {
 
 footer p {
   margin: 0;
-  color:#fdfaf0;
+  color:#f7f7f7;
 }
 
 footer .content-wrapper {
@@ -489,7 +489,7 @@ footer .contact {
 footer .contact address {
   display: flex;
   justify-content: center;
-  color: #fdfaf0;
+  color: #f7f7f7;
 }
 
 
@@ -502,7 +502,7 @@ footer .social-icons {
 }
 
 footer .social-icons p {
-  background-color:#fdfaf0;
+  background-color:#f7f7f7;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -519,7 +519,7 @@ footer .social-icons p i {
 footer .copyright p{
   text-align: center;
   margin: 20px 0;
-  color:#fdfaf0;
+  color:#f7f7f7;
   
 }
 
@@ -545,7 +545,7 @@ footer .copyright p{
   justify-content: center;
   align-items: center;
   font-size: 2em;
-  color:#fdfaf0;
+  color:#f7f7f7;
   line-height: 40px;
   text-align: center;
   padding-bottom: 10px;
@@ -557,7 +557,7 @@ footer .copyright p{
   
   justify-content: center;
   align-items: center;
-  color:#fdfaf0;
+  color:#f7f7f7;
   text-align: center;
   margin:0;
  
@@ -664,7 +664,7 @@ footer .copyright p{
   text-align: center;
   margin-top: 50px;
   margin-bottom: 0px;
-  color:#fdfaf0;
+  color:#f7f7f7;
 
 }
 
@@ -756,7 +756,7 @@ footer .copyright p{
 }
 
 .about-page .ap-one h2 {
- color:#fdfaf0;
+ color:#f7f7f7;
  text-align: center;
 }
 
@@ -833,11 +833,11 @@ flex-flow: column wrap;
 }
 
 .sd-flex-1, .sd-flex-2, h1, h2 {
-  color:#fdfaf0;
+  color:#f7f7f7;
 }
 
 .sd-flex-1 p {
-  color:#fdfaf0;
+  color:#f7f7f7;
 }
 
 
@@ -1435,7 +1435,7 @@ footer .copyright {
 
 .sd-flex-2 h1 {
   font-size: larger;
-  color:#fdfaf0;
+  color:#f7f7f7;
 }
 .sd-flex-2 ul li {
   color:#ef9791;
